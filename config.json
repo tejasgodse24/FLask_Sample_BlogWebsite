@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+
+    "local_uri": "mysql://root:@localhost/instrument",
+    "prod_uri": "mysql://root:@localhost/instrument",
+    "heading": "Indian Musical Instruments",
+    "sub_heading": "A Blog Liked By Musician...",
+    "gmail-user": "tejasgodse.tech@gmail.com",
+    "gmail-password": "xrdmioljbjnivfhw",
+    "about_text": "An integral part of the Indian classical music are the Indian classical music instruments. These instruments have not only given us memorable music but many famous Indian musicians who have represented India on the world stage. Today in this blog we will discuss about the list of Indian musical instruments along with their pictures",
+    "no_of_posts": 2,
+    "login_image": "login.png",
+    "admin_username": "tejas",
+    "admin_password": "godse",
+    "upload_location":"D:\\Resume_Project\\FLask_Sample_BlogWebsite\\static\\uploads"
+  }
+
+
+
+}
